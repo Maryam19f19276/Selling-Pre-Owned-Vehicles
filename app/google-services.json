@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685107809975",
+    "project_id": "pre-owned-vehicles-6671d",
+    "storage_bucket": "pre-owned-vehicles-6671d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685107809975:android:d35671ac8ee4116468c732",
+        "android_client_info": {
+          "package_name": "com.example.pre_ownedvehicles"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEGClViIA71KHyHBavsj6zRxtqFaSUhQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
